@@ -1,6 +1,5 @@
 # bigdata-sensor
-
-# Tarea 3 - Procesamiento de Datos con Apache Spark
+ Procesamiento de Datos con Apache Spark
 
 ## Descripción
 Análisis de datos en tiempo real y batch usando Apache Spark, Kafka y Python.

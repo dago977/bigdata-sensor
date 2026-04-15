@@ -9,7 +9,7 @@ Los datos simulan lecturas de sensores (temperatura, humedad) generadas en tiemp
 - Ubuntu 22.04
 - Python 3.x
 - Apache Spark 3.5.3
-- Apache Kafka 3.8.0
+- Apache Kafka 3.9.2
 - Librerías: kafka-python, matplotlib, pandas
 
 ## Instalación

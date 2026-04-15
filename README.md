@@ -1,4 +1,4 @@
-# bigdata-sensor
+# BigData-Sensor
  Procesamiento de Datos con Apache Spark
 
 ## Descripción
